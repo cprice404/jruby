@@ -9,7 +9,7 @@
     <version>7</version>
   </parent>
 
-  <groupId>puppetlabs</groupId>
+  <groupId>puppetlabs.org.jruby</groupId>
   <artifactId>jruby-parent</artifactId>
   <version>1.7.26-puppetlabs-1-SNAPSHOT</version>
   <packaging>pom</packaging>
