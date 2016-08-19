@@ -54,6 +54,7 @@
 
   <modules>
     <module>core</module>
+    <module>lib</module>
     <module>maven</module>
   </modules>
 

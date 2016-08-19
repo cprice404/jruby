@@ -39,18 +39,18 @@
   <!--</distributionManagement>-->
 
   <!-- this setup deploys to clojars, which is publicly available -->
-  <distributionManagement>
-    <snapshotRepository>
-      <id>clojars</id>
-      <name>Clojars repository</name>
-      <url>https://clojars.org/repo</url>
-    </snapshotRepository>
-    <repository>
-      <id>clojars</id>
-      <name>Clojars repository</name>
-      <url>https://clojars.org/repo</url>
-    </repository>
-  </distributionManagement>
+  <!--<distributionManagement>-->
+    <!--<snapshotRepository>-->
+      <!--<id>clojars</id>-->
+      <!--<name>Clojars repository</name>-->
+      <!--<url>https://clojars.org/repo</url>-->
+    <!--</snapshotRepository>-->
+    <!--<repository>-->
+      <!--<id>clojars</id>-->
+      <!--<name>Clojars repository</name>-->
+      <!--<url>https://clojars.org/repo</url>-->
+    <!--</repository>-->
+  <!--</distributionManagement>-->
 
   <!-- __________________________________________________________________________________________ -->
   <!-- end custom puppetlabs modifications, to deploy artifacts to a non-standard artifact repo -->

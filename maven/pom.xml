@@ -33,18 +33,18 @@
   <!--</distributionManagement>-->
 
   <!-- this setup deploys to clojars, which is publicly available -->
-  <distributionManagement>
-    <snapshotRepository>
-      <id>clojars</id>
-      <name>Clojars repository</name>
-      <url>https://clojars.org/repo</url>
-    </snapshotRepository>
-    <repository>
-      <id>clojars</id>
-      <name>Clojars repository</name>
-      <url>https://clojars.org/repo</url>
-    </repository>
-  </distributionManagement>
+  <!--<distributionManagement>-->
+    <!--<snapshotRepository>-->
+      <!--<id>clojars</id>-->
+      <!--<name>Clojars repository</name>-->
+      <!--<url>https://clojars.org/repo</url>-->
+    <!--</snapshotRepository>-->
+    <!--<repository>-->
+      <!--<id>clojars</id>-->
+      <!--<name>Clojars repository</name>-->
+      <!--<url>https://clojars.org/repo</url>-->
+    <!--</repository>-->
+  <!--</distributionManagement>-->
 
   <modules>
     <module>jruby-stdlib</module>
