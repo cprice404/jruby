@@ -46,6 +46,10 @@
     </repository>
   </distributionManagement>
 
+  <modules>
+    <module>jruby-stdlib</module>
+  </modules>
+
   <!-- __________________________________________________________________________________________ -->
   <!-- end custom puppetlabs modifications, to deploy artifacts to a non-standard artifact repo -->
   <!-- __________________________________________________________________________________________ -->

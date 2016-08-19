@@ -51,6 +51,12 @@
     </repository>
   </distributionManagement>
 
+
+  <modules>
+    <module>core</module>
+    <module>maven</module>
+  </modules>
+
   <!-- __________________________________________________________________________________________ -->
   <!-- end custom puppetlabs modifications, to deploy artifacts to a non-standard artifact repo -->
   <!-- __________________________________________________________________________________________ -->
